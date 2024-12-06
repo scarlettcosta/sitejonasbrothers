@@ -1,0 +1,41 @@
+.navbar-dark .navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.navbar-dark .nav-link {
+    color: #fefbfe;
+    font-size: 1rem;
+}
+
+.navbar-dark .nav-link:hover {
+    color: #fefbfe;
+}
+
+.album-container img {
+    max-width: 50%;
+    height: auto;
+    margin-bottom: 7px;
+}
+
+.album-container h3 {
+    margin-top: 10px;
+}
+
+.album-container ul {
+    list-style: none;
+    padding: 0;
+}
+
+.album-container ul li {
+    text-align: center;
+}
+
+a {
+    text-decoration: underline; 
+}
+
+a:hover {
+    color: #929292;
+    text-decoration: underline; 
+}
